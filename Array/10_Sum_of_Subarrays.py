@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/sum-of-subarrays2229/1
+
 def subarraySum(self, a, n):
         # ### brute force
         # finalSum = 0
